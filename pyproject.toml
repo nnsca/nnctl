@@ -1,0 +1,7 @@
+[project]
+name = "nnctl"
+version = "0.1.0"
+description = "The Net And Name Service Control Authority CLI"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []
